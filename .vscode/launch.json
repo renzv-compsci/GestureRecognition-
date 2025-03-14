@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Launch Program",
+        "request": "launch",
+        "mainClass": "com.example.testingCV",
+        "vmArgs": "-Djava.library.path=C:\\Users\\Renz\\Downloads\\opencv\\build\\java",
+        "projectName": "demo"
+      }
+    ]
+  }
+  
